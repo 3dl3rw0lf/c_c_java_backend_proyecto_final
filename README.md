@@ -25,5 +25,6 @@ El video deberá subirse a alguna plataforma:
 
 y deberás pegar el enlace pertinente
 
-Fecha de inicio de entregas: 11/12/2023
-Fecha de fin de entregas: 21/12/2023
+> _[!IMPORTANT]_
+> Fecha de inicio de entregas: 11/12/2023
+> Fecha de fin de entregas: 21/12/2023
